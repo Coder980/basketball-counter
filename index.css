@@ -1,0 +1,48 @@
+body {
+    background: #1B244A;
+    margin: 0 100px 0 100px;
+    text-align: center
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    color: #EEEEEE;
+    font-size: 40px;
+    font-family: Verdana;
+    margin-bottom: 21px;
+    width: 149px;
+    height: 36px
+}
+
+.points {
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    font-weight: 400;
+    padding: 20px 20px 0px 18px;
+    background: #080001;
+    height: 120px;
+    width: 117px;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.btn {
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    width: 45px;
+    background: #1B244A;
+    border: 2px solid #9AABD8;
+    height: 45px;
+    padding: 9px 7px 9px 7px;
+    margin: 20px 9px 69px 0;
+    border-radius: 5px
+}
+
+.new-game-btn {
+    width: 100px;
+}
